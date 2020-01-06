@@ -8,6 +8,8 @@ public class exam01 {
 		Scanner input=new Scanner(System.in);
 		boolean isFun =true;
 		System.out.println(isFun);
-		ffffffffffffffffffff
+		System.out.println(isFun);
+		System.out.println(isFun);
+		System.out.println(isFun);
 	}
 }
